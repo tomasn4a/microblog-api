@@ -69,6 +69,8 @@ packaging==21.3
     # via
     #   marshmallow
     #   webargs
+psycopg2-binary==2.9.3
+    # via -r requirements.in
 pyjwt==2.3.0
     # via -r requirements.in
 pyparsing==3.0.7

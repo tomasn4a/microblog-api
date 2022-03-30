@@ -9,5 +9,6 @@ flask-marshmallow
 flask-migrate
 gunicorn
 marshmallow-sqlalchemy
+psycopg2-binary
 pyjwt
 python-dotenv
