@@ -58,6 +58,7 @@ markupsafe==2.1.1
     # via
     #   jinja2
     #   mako
+    #   werkzeug
 marshmallow==3.15.0
     # via
     #   flask-marshmallow
@@ -90,7 +91,7 @@ sqlalchemy==1.4.32
     #   marshmallow-sqlalchemy
 webargs==8.1.0
     # via apifairy
-werkzeug==2.1.0
+werkzeug==3.0.6
     # via flask
 
 # The following packages are considered to be unsafe in a requirements file:
